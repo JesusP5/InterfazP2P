@@ -23,3 +23,29 @@ C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\GeneratedInternalTypeH
 C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\Controls\Input.baml
 C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\Controls\Button.g.cs
 C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\Controls\Button.baml
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI.pdb
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\bin\Debug\ChatUI.exe.config
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\bin\Debug\ChatUI.exe
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\bin\Debug\ChatUI.pdb
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\Controls\Button.g.cs
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\Controls\Input.g.cs
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\Pages\ChatPage.g.cs
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\Pages\Login.g.cs
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\MainWindow.g.cs
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\App.g.cs
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI_MarkupCompile.cache
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI_MarkupCompile.lref
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\Controls\Button.baml
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\Controls\Input.baml
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\Pages\ChatPage.baml
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\Pages\Login.baml
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\MainWindow.baml
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI.g.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI.Resource1.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\5 SEMESTRE\SISTEMAS DISTRIBUIDOS\p2p_interfaz\InterfazP2P\ChatUI\SampleWPF\SampleWPF\obj\Debug\ChatUI.exe
